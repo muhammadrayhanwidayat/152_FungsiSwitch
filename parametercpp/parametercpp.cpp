@@ -18,6 +18,6 @@ int main()
     cout << "masukan panjang";
     cin >> panjang;
     cout << "masukan lebar";
-    
+    cin >> lebar;
 }
 
