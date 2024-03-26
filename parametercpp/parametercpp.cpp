@@ -12,20 +12,9 @@ int fungsiLuas(int p, int l) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
+
     
 }
 
